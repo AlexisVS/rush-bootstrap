@@ -1,0 +1,11 @@
+/* -------------------------------------------------------------------------- */
+/*                                   Icones                                   */
+/* -------------------------------------------------------------------------- */
+
+J'utilse les icones de Material Desin avec Iconify en Js pour les chargers.
+https://iconify.design/icon-sets/mdi/
+
+/* --------------------------------- exemple -------------------------------- */
+
+<span class="iconify" data-icon="mdi:account-arrow-left" data-inline="false"></span>
+<script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
